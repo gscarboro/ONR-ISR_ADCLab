@@ -1,7 +1,8 @@
 # ONR-ISR
-CEC ONR-ISR Project
+Office of Naval Research Intelligence, Surveillance, and Reconnaissance Simulator.
+Intended to help simulate interaction, cooperation, and potential issues with human/computer collaboration for control of an aircraft on an intelligence mission.
 
-ISR Simulator.
+This is not the original repository, and it is not the full project (many things have been removed or commented out in order to have this work as a standalone page). This is a demonstration of only a part of the webpage aspect of the project, and does not show things like Matlab vector control and Microsoft Flight Simulator integration. The main work that I did on this portion of the project was on overall game logic, boat control and placement, and user interaction with the plane's path (what happens when you click the screen). 
 
 ## Running the simulator
 
